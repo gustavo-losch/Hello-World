@@ -1,2 +1,4 @@
 # Hello World
- Primeiro repositório do Git e Github
+ @author Gustavo Losch do Amaral
+
+ First Git and Github repository :)
